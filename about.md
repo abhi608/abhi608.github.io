@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a 3rd year U.G. in Computer Science and Engineering, IIT Kanpur
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+### Interests
+	Systems
+	Machine Learning
+	Algorithms
+	Web-Development
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[608abhishek@gmail.com](mailto:608abhishek@gmail.com)
