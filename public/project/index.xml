@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Abhishek Verma</title>
+    <link>abhi608.github.io/project/</link>
+    <description>Recent content in Projects on Abhishek Verma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Abhishek Verma</copyright>
+    <lastBuildDate>Sun, 17 Dec 2017 18:06:49 +0530</lastBuildDate>
+    <atom:link href="abhi608.github.io/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Blockchain Technology</title>
+      <link>abhi608.github.io/project/blockchain/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>abhi608.github.io/project/blockchain/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Arnab Bhattacharya, IITK&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Aug&amp;rsquo;17 - Nov&amp;rsquo;17&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/abhi608/blockchain_tech&#34; target=&#34;_blank&#34;&gt;Blockchain Technology&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Explored various aspects of blockchains. Major field of study was consensus protocols based on concepts like Proof of Work, Proof of Stake and Proof of Space. Also covered Algorand and did a case study of Bitcoin and ZCash.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blockchain based Smart Transaction Platform</title>
+      <link>abhi608.github.io/project/transaction/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>abhi608.github.io/project/transaction/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Satyadev Nandakumar, IITK &amp;amp; Dr. Piyush P. Kurur, IITK&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Aug&amp;rsquo;17 - Nov&amp;rsquo;17&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/abhi608/shareCapital&#34; target=&#34;_blank&#34;&gt;Blockchain based Smart Transaction Platform&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Studied about decentralised databases, database synchronisation, encryption techniques, proof of work, verification rules used by miners and importance of round robin scheduling for miners. Built the database of the platform using MultiChain library incorporating features to create blockchains, streams and perform transactions. Backend was JavaScript based and frontend was HTML5/CSS based. Implemented a blockchain model which supports exchange of data and assets keeping into account data access, privacy and integrity. Implemented features like wallet transactions, stream creation and creation of new records.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>C to MIPS Compiler</title>
+      <link>abhi608.github.io/project/compiler/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>abhi608.github.io/project/compiler/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Amey Karkare, IITK&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Jan&amp;rsquo;17 - Apr&amp;rsquo;17&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/abhi608/C-to-MIPS-compiler&#34; target=&#34;_blank&#34;&gt;C to MIPS Compiler&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Developed a C compiler that compiles to MIPS, implemented using Python. Implemented all stages of compiler design - lexer, parser, intermediate code generator and code generator. Handled a variety of semantic and syntactic errors using translation schemes. Built support for recursion, struct as parameter and return value, short circuit evaluation and other optimizations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chat Application using Socket Programming</title>
+      <link>abhi608.github.io/project/socket/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>abhi608.github.io/project/socket/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Dheeraj Sanghi, IITK&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Oct&amp;rsquo;17 - Nov&amp;rsquo;17&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/abhi608/chatApp&#34; target=&#34;_blank&#34;&gt;ChatApp using Socket Programming&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Created a chat application using socket programming in python. Implemented a concurrent server with slaves listening for any incoming connection. Application provides various facilities such as SignUp, Login, Logout, Block/Unblock, Private/Broadcast messages.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chatbot Development</title>
+      <link>abhi608.github.io/project/chatbot/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>abhi608.github.io/project/chatbot/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Programming Club, IITK&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; May&amp;rsquo;15 - July&amp;rsquo;15&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/abhi608/Chatbot_project&#34; target=&#34;_blank&#34;&gt;Chatbot&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Developed a chatbot, called IVANA which behaved like humans. Used the Natural Language Toolkit(NLTK) library of Python to implement NLP techniques. Designed and implemented three distinct algorithms using N-Grams, WordNet and Part-of-Speech tagging in english language. Database handling was done in MySQL. Also, a visual app was deployed for the same.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Combinatorial Game Theory</title>
+      <link>abhi608.github.io/project/combinatorial/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>abhi608.github.io/project/combinatorial/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Rajat Mittal, IITK&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Sep&amp;rsquo;15 - Nov&amp;rsquo;15&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/abhi608/comb_game_theory&#34; target=&#34;_blank&#34;&gt;Combinatorial Game Theory&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Studied the basic concepts of combinatorial game theory and the analysis of various games like Nim, Hex and Tic Tac Toe. Studied the mathematical treatment of games and some of the results that can be derived from it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Development of Prutor - An interface to indroduce people to the world of programming</title>
+      <link>abhi608.github.io/project/prutor/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>abhi608.github.io/project/prutor/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Amey Karkare, IITK&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Jan&amp;rsquo;17 - Apr&amp;rsquo;17&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/abhi608/prutor_dev&#34; target=&#34;_blank&#34;&gt;Prutor Interface&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Added admin side modules and features to Prutor, a Node.js platform used to teach programming to 800 first year students every year in IIT Kanpur. Worked on Node.js, SQL, HTML and CSS like technologies. Used docker to run all the services.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Extension of NachOS</title>
+      <link>abhi608.github.io/project/nachos/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>abhi608.github.io/project/nachos/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Mainak Chaudhuri, IITK&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Aug&amp;rsquo;16 - Nov&amp;rsquo;16&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/abhi608/NachOS&#34; target=&#34;_blank&#34;&gt;Extension of NachOS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Implemented fork, join and exec system calls in NachOS-instructional C++ software to run as secondary OS. Compared algorithms for page replacement, process scheduling, demand paging, shared memory and syn-chronisation support.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Atari Game strategies using Deep Reinforcement Learning</title>
+      <link>abhi608.github.io/project/atari/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>abhi608.github.io/project/atari/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Piyush Rai, IITK&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Oct&amp;rsquo;16 - Nov&amp;rsquo;16&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;#&#34;&gt;Deep Reinforcement Learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Created an AI agent which learnt to play a number of Atari Games and defeated Atari hard-coded AIs, using same set of hyper parameters. Implemented Q Learning algorithm described in seminal papers by Google Deepmind and used a Convolutional Double Dueling Deep Neural Q-network to approximate the Q value function. Used Bellman Equation and followed deep policy network based approach to implement Monte Carlo policy gradients.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Railway Enquiry System</title>
+      <link>abhi608.github.io/project/railway/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>abhi608.github.io/project/railway/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Medha Atre, IITK&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Jan&amp;rsquo;17 - Apr&amp;rsquo;17&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/ayush-tulsyan/RailQuery&#34; target=&#34;_blank&#34;&gt;RailQuery&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Implemented queries like trains between stations involving optimized parameters such as minimum cost, time or distance using Neo4j. Implemented alogithms like Dijkstra&amp;rsquo;s Algorithm and BFS-Traversal.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stacked Attention Network for Visual Question Answering</title>
+      <link>abhi608.github.io/project/vqa/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>abhi608.github.io/project/vqa/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Vinay P. Namboodiri, IITK&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Aug&amp;rsquo;17 - Nov&amp;rsquo;17&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/abhi608/sans-pytorch&#34; target=&#34;_blank&#34;&gt;Stacked Attention Network&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Modified SANs for VQA using Visual Grounding of Phrases. SANs use semantic representation of a question as query to search for the regions in an image that are related to the answer. Implemented a multiple-layer SAN in which we query an image multiple times to infer the answer progressively.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Elanic Intern</title>
+      <link>abhi608.github.io/project/elanic-intern/</link>
+      <pubDate>Sun, 17 Dec 2017 17:51:40 +0530</pubDate>
+      
+      <guid>abhi608.github.io/project/elanic-intern/</guid>
+      <description>
+
+&lt;!-- ## My Projects at [Elanic](http://elanic.in/) --&gt;
+
+&lt;h3 id=&#34;nodejs-development&#34;&gt;NodeJS Development&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Nov&amp;rsquo;15 - Dec&amp;rsquo;15&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Mentor: Pragyan Tripathi, CTO, Elanic&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Full Stack Development: Elasticsearch, MongoDB and NodeJS with Restify framework.&lt;/li&gt;
+&lt;li&gt;Indexed all the data to Elasticsearch from MongoDB and builtREST APIs for search queries.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ShareChat Intern</title>
+      <link>abhi608.github.io/project/sharechat-intern/</link>
+      <pubDate>Sun, 17 Dec 2017 17:51:40 +0530</pubDate>
+      
+      <guid>abhi608.github.io/project/sharechat-intern/</guid>
+      <description>
+
+&lt;!-- ## My Project at [ShareChat](http://sharechat.co/) --&gt;
+
+&lt;h3 id=&#34;full-stack-development&#34;&gt;Full Stack Development&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;May&amp;rsquo;16 - July&amp;rsquo;16&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Mentor: Bhanu Singh, CTO, ShareChat&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Worked on Mixpanel API to get data about the Mobile Application and used D3.js(Data Driven Documents), a data visualisation tool to convert raw data to presentable form. Data included retention and engagement cohorts.&lt;/li&gt;
+&lt;li&gt;Was part of a 3 member team which whose responsibility was making, maintaining and deploying anandroid app which featured as Top Free in the Google Play Store. The app was downloaded by more than 10k people within a week.&lt;/li&gt;
+&lt;li&gt;Used AWS(Amazon Web Services)to handle the app and DynamoDB for database handling. All the scripts were run on Cron and AWS Lambda Server was used in the Backend of the app to execute the app tasks.&lt;/li&gt;
+&lt;li&gt;Configured and maintained Rabbitmq Server for keeping mobile devices connected usingmqtt protocol.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VISA Intern</title>
+      <link>abhi608.github.io/project/visa-intern/</link>
+      <pubDate>Sun, 17 Dec 2017 17:51:40 +0530</pubDate>
+      
+      <guid>abhi608.github.io/project/visa-intern/</guid>
+      <description>
+
+&lt;h2 id=&#34;my-projects-at-visa-https-www-visa-co-in&#34;&gt;My Projects at &lt;a href=&#34;https://www.visa.co.in/&#34; target=&#34;_blank&#34;&gt;VISA&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;self-heling-automation&#34;&gt;Self-Heling Automation&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;May&amp;rsquo;17 - July&amp;rsquo;17&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Manager: Mr. Mohan Babu Nellore, Director-MAP&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Mentor: Mr. Arup Datta&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implemented an intelligent automation architecture that makes sure all dependent components (VMs, services/applications,  databases) are working as desired before running actual test suite to wipe off all false positives. This ensured that there is no downtimefor any service/API and also reduced development and test time by 90%.&lt;/li&gt;
+&lt;li&gt;Implemented Restful APIs for application health-check, starting/stopping and re-starting the services using JAVA servlet framework.&lt;/li&gt;
+&lt;li&gt;Filed a patent for this work and was awarded a pre-placement offer for sincere and concerted efforts with avisible business impact.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;browsersync-integration-in-existing-architecture&#34;&gt;BrowserSync Integration in Existing Architecture&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;May&amp;rsquo;17 - July&amp;rsquo;17&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Manager: Mr. Mohan Babu Nellore, Director-MAP&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Mentor: Mr. Shubham Singh&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Enabled cross-browser testing by integrating BrowserSync with an existing web application which reduced the developmentand test time by 60%.&lt;/li&gt;
+&lt;li&gt;Implemented methods to ensure that different browsers across different devices are executing requests insynchronization.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
