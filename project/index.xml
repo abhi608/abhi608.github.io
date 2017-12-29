@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Abhishek Verma</title>
-    <link>abhi608.github.io/project/</link>
+    <link>https://abhi608.github.io/project/</link>
     <description>Recent content in Projects on Abhishek Verma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Abhishek Verma</copyright>
     <lastBuildDate>Sun, 17 Dec 2017 18:06:49 +0530</lastBuildDate>
-    <atom:link href="abhi608.github.io/project/" rel="self" type="application/rss+xml" />
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Blockchain Technology</title>
-      <link>abhi608.github.io/project/blockchain/</link>
+      <link>https://abhi608.github.io/project/blockchain/</link>
       <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
       
-      <guid>abhi608.github.io/project/blockchain/</guid>
+      <guid>https://abhi608.github.io/project/blockchain/</guid>
       <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Arnab Bhattacharya, IITK&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Aug&amp;rsquo;17 - Nov&amp;rsquo;17&lt;/p&gt;
@@ -28,10 +28,10 @@
     
     <item>
       <title>Blockchain based Smart Transaction Platform</title>
-      <link>abhi608.github.io/project/transaction/</link>
+      <link>https://abhi608.github.io/project/transaction/</link>
       <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
       
-      <guid>abhi608.github.io/project/transaction/</guid>
+      <guid>https://abhi608.github.io/project/transaction/</guid>
       <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Satyadev Nandakumar, IITK &amp;amp; Dr. Piyush P. Kurur, IITK&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Aug&amp;rsquo;17 - Nov&amp;rsquo;17&lt;/p&gt;
@@ -44,10 +44,10 @@
     
     <item>
       <title>C to MIPS Compiler</title>
-      <link>abhi608.github.io/project/compiler/</link>
+      <link>https://abhi608.github.io/project/compiler/</link>
       <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
       
-      <guid>abhi608.github.io/project/compiler/</guid>
+      <guid>https://abhi608.github.io/project/compiler/</guid>
       <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Amey Karkare, IITK&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Jan&amp;rsquo;17 - Apr&amp;rsquo;17&lt;/p&gt;
@@ -60,10 +60,10 @@
     
     <item>
       <title>Chat Application using Socket Programming</title>
-      <link>abhi608.github.io/project/socket/</link>
+      <link>https://abhi608.github.io/project/socket/</link>
       <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
       
-      <guid>abhi608.github.io/project/socket/</guid>
+      <guid>https://abhi608.github.io/project/socket/</guid>
       <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Dheeraj Sanghi, IITK&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Oct&amp;rsquo;17 - Nov&amp;rsquo;17&lt;/p&gt;
@@ -76,10 +76,10 @@
     
     <item>
       <title>Chatbot Development</title>
-      <link>abhi608.github.io/project/chatbot/</link>
+      <link>https://abhi608.github.io/project/chatbot/</link>
       <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
       
-      <guid>abhi608.github.io/project/chatbot/</guid>
+      <guid>https://abhi608.github.io/project/chatbot/</guid>
       <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Programming Club, IITK&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; May&amp;rsquo;15 - July&amp;rsquo;15&lt;/p&gt;
@@ -92,10 +92,10 @@
     
     <item>
       <title>Combinatorial Game Theory</title>
-      <link>abhi608.github.io/project/combinatorial/</link>
+      <link>https://abhi608.github.io/project/combinatorial/</link>
       <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
       
-      <guid>abhi608.github.io/project/combinatorial/</guid>
+      <guid>https://abhi608.github.io/project/combinatorial/</guid>
       <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Rajat Mittal, IITK&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Sep&amp;rsquo;15 - Nov&amp;rsquo;15&lt;/p&gt;
@@ -108,10 +108,10 @@
     
     <item>
       <title>Development of Prutor - An interface to indroduce people to the world of programming</title>
-      <link>abhi608.github.io/project/prutor/</link>
+      <link>https://abhi608.github.io/project/prutor/</link>
       <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
       
-      <guid>abhi608.github.io/project/prutor/</guid>
+      <guid>https://abhi608.github.io/project/prutor/</guid>
       <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Amey Karkare, IITK&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Jan&amp;rsquo;17 - Apr&amp;rsquo;17&lt;/p&gt;
@@ -124,10 +124,10 @@
     
     <item>
       <title>Extension of NachOS</title>
-      <link>abhi608.github.io/project/nachos/</link>
+      <link>https://abhi608.github.io/project/nachos/</link>
       <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
       
-      <guid>abhi608.github.io/project/nachos/</guid>
+      <guid>https://abhi608.github.io/project/nachos/</guid>
       <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Mainak Chaudhuri, IITK&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Aug&amp;rsquo;16 - Nov&amp;rsquo;16&lt;/p&gt;
@@ -140,10 +140,10 @@
     
     <item>
       <title>Learning Atari Game strategies using Deep Reinforcement Learning</title>
-      <link>abhi608.github.io/project/atari/</link>
+      <link>https://abhi608.github.io/project/atari/</link>
       <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
       
-      <guid>abhi608.github.io/project/atari/</guid>
+      <guid>https://abhi608.github.io/project/atari/</guid>
       <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Piyush Rai, IITK&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Oct&amp;rsquo;16 - Nov&amp;rsquo;16&lt;/p&gt;
@@ -156,10 +156,10 @@
     
     <item>
       <title>Railway Enquiry System</title>
-      <link>abhi608.github.io/project/railway/</link>
+      <link>https://abhi608.github.io/project/railway/</link>
       <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
       
-      <guid>abhi608.github.io/project/railway/</guid>
+      <guid>https://abhi608.github.io/project/railway/</guid>
       <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Medha Atre, IITK&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Jan&amp;rsquo;17 - Apr&amp;rsquo;17&lt;/p&gt;
@@ -172,10 +172,10 @@
     
     <item>
       <title>Stacked Attention Network for Visual Question Answering</title>
-      <link>abhi608.github.io/project/vqa/</link>
+      <link>https://abhi608.github.io/project/vqa/</link>
       <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
       
-      <guid>abhi608.github.io/project/vqa/</guid>
+      <guid>https://abhi608.github.io/project/vqa/</guid>
       <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Vinay P. Namboodiri, IITK&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Aug&amp;rsquo;17 - Nov&amp;rsquo;17&lt;/p&gt;
@@ -188,10 +188,10 @@
     
     <item>
       <title>Elanic Intern</title>
-      <link>abhi608.github.io/project/elanic-intern/</link>
+      <link>https://abhi608.github.io/project/elanic-intern/</link>
       <pubDate>Sun, 17 Dec 2017 17:51:40 +0530</pubDate>
       
-      <guid>abhi608.github.io/project/elanic-intern/</guid>
+      <guid>https://abhi608.github.io/project/elanic-intern/</guid>
       <description>
 
 &lt;!-- ## My Projects at [Elanic](http://elanic.in/) --&gt;
@@ -211,10 +211,10 @@
     
     <item>
       <title>ShareChat Intern</title>
-      <link>abhi608.github.io/project/sharechat-intern/</link>
+      <link>https://abhi608.github.io/project/sharechat-intern/</link>
       <pubDate>Sun, 17 Dec 2017 17:51:40 +0530</pubDate>
       
-      <guid>abhi608.github.io/project/sharechat-intern/</guid>
+      <guid>https://abhi608.github.io/project/sharechat-intern/</guid>
       <description>
 
 &lt;!-- ## My Project at [ShareChat](http://sharechat.co/) --&gt;
@@ -236,10 +236,10 @@
     
     <item>
       <title>VISA Intern</title>
-      <link>abhi608.github.io/project/visa-intern/</link>
+      <link>https://abhi608.github.io/project/visa-intern/</link>
       <pubDate>Sun, 17 Dec 2017 17:51:40 +0530</pubDate>
       
-      <guid>abhi608.github.io/project/visa-intern/</guid>
+      <guid>https://abhi608.github.io/project/visa-intern/</guid>
       <description>
 
 &lt;h2 id=&#34;my-projects-at-visa-https-www-visa-co-in&#34;&gt;My Projects at &lt;a href=&#34;https://www.visa.co.in/&#34; target=&#34;_blank&#34;&gt;VISA&lt;/a&gt;&lt;/h2&gt;
