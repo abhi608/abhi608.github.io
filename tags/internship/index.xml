@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internship on Abhishek Verma</title>
+    <link>https://abhi608.github.io/tags/internship/</link>
+    <description>Recent content in Internship on Abhishek Verma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Abhishek Verma</copyright>
+    <lastBuildDate>Sun, 17 Dec 2017 17:51:40 +0530</lastBuildDate>
+    
+	<atom:link href="https://abhi608.github.io/tags/internship/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elanic Intern</title>
+      <link>https://abhi608.github.io/project/elanic-intern/</link>
+      <pubDate>Sun, 17 Dec 2017 17:51:40 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/elanic-intern/</guid>
+      <description> NodeJS Development Nov&amp;rsquo;15 - Dec&amp;rsquo;15
+Mentor: Pragyan Tripathi, CTO, Elanic
+ Full Stack Development: Elasticsearch, MongoDB and NodeJS with Restify framework. Indexed all the data to Elasticsearch from MongoDB and builtREST APIs for search queries.  </description>
+    </item>
+    
+    <item>
+      <title>ShareChat Intern</title>
+      <link>https://abhi608.github.io/project/sharechat-intern/</link>
+      <pubDate>Sun, 17 Dec 2017 17:51:40 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/sharechat-intern/</guid>
+      <description>Full Stack Development May&amp;rsquo;16 - July&amp;rsquo;16
+Mentor: Bhanu Singh, CTO, ShareChat
+ Worked on Mixpanel API to get data about the Mobile Application and used D3.js(Data Driven Documents), a data visualisation tool to convert raw data to presentable form. Data included retention and engagement cohorts. Was part of a 3 member team which whose responsibility was making, maintaining and deploying anandroid app which featured as Top Free in the Google Play Store.</description>
+    </item>
+    
+    <item>
+      <title>VISA Intern</title>
+      <link>https://abhi608.github.io/project/visa-intern/</link>
+      <pubDate>Sun, 17 Dec 2017 17:51:40 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/visa-intern/</guid>
+      <description>My Projects at VISA Self-Heling Automation May&amp;rsquo;17 - July&amp;rsquo;17
+Manager: Mr. Mohan Babu Nellore, Director-MAP
+Mentor: Mr. Arup Datta
+ Implemented an intelligent automation architecture that makes sure all dependent components (VMs, services/applications, databases) are working as desired before running actual test suite to wipe off all false positives. This ensured that there is no downtimefor any service/API and also reduced development and test time by 90%. Implemented Restful APIs for application health-check, starting/stopping and re-starting the services using JAVA servlet framework.</description>
+    </item>
+    
+  </channel>
+</rss>

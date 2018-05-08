@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer-systems on Abhishek Verma</title>
+    <link>https://abhi608.github.io/tags/computer-systems/</link>
+    <description>Recent content in Computer-systems on Abhishek Verma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Abhishek Verma</copyright>
+    <lastBuildDate>Sun, 17 Dec 2017 18:06:49 +0530</lastBuildDate>
+    
+	<atom:link href="https://abhi608.github.io/tags/computer-systems/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>C to MIPS Compiler</title>
+      <link>https://abhi608.github.io/project/compiler/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/compiler/</guid>
+      <description>Mentor: Dr. Amey Karkare, IITK
+Stretch: Jan&amp;rsquo;17 - Apr&amp;rsquo;17
+Complete Project: C to MIPS Compiler
+Developed a C compiler that compiles to MIPS, implemented using Python. Implemented all stages of compiler design - lexer, parser, intermediate code generator and code generator. Handled a variety of semantic and syntactic errors using translation schemes. Built support for recursion, struct as parameter and return value, short circuit evaluation and other optimizations.</description>
+    </item>
+    
+    <item>
+      <title>Chat Application using Socket Programming</title>
+      <link>https://abhi608.github.io/project/socket/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/socket/</guid>
+      <description>Mentor: Dr. Dheeraj Sanghi, IITK
+Stretch: Oct&amp;rsquo;17 - Nov&amp;rsquo;17
+Complete Project: ChatApp using Socket Programming
+Created a chat application using socket programming in python. Implemented a concurrent server with slaves listening for any incoming connection. Application provides various facilities such as SignUp, Login, Logout, Block/Unblock, Private/Broadcast messages.</description>
+    </item>
+    
+    <item>
+      <title>Extension of NachOS</title>
+      <link>https://abhi608.github.io/project/nachos/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/nachos/</guid>
+      <description>Mentor: Dr. Mainak Chaudhuri, IITK
+Stretch: Aug&amp;rsquo;16 - Nov&amp;rsquo;16
+Complete Project: Extension of NachOS
+Implemented fork, join and exec system calls in NachOS-instructional C++ software to run as secondary OS. Compared algorithms for page replacement, process scheduling, demand paging, shared memory and syn-chronisation support.</description>
+    </item>
+    
+  </channel>
+</rss>

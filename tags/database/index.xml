@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database on Abhishek Verma</title>
+    <link>https://abhi608.github.io/tags/database/</link>
+    <description>Recent content in Database on Abhishek Verma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Abhishek Verma</copyright>
+    <lastBuildDate>Sun, 17 Dec 2017 18:06:49 +0530</lastBuildDate>
+    
+	<atom:link href="https://abhi608.github.io/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blockchain Technology</title>
+      <link>https://abhi608.github.io/project/blockchain/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/blockchain/</guid>
+      <description>Mentor: Dr. Arnab Bhattacharya, IITK
+Stretch: Aug&amp;rsquo;17 - Nov&amp;rsquo;17
+Complete Project: Blockchain Technology
+Explored various aspects of blockchains. Major field of study was consensus protocols based on concepts like Proof of Work, Proof of Stake and Proof of Space. Also covered Algorand and did a case study of Bitcoin and ZCash.</description>
+    </item>
+    
+    <item>
+      <title>Blockchain based Smart Transaction Platform</title>
+      <link>https://abhi608.github.io/project/transaction/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/transaction/</guid>
+      <description>Mentor: Dr. Satyadev Nandakumar, IITK &amp;amp; Dr. Piyush P. Kurur, IITK
+Stretch: Aug&amp;rsquo;17 - Nov&amp;rsquo;17
+Complete Project: Blockchain based Smart Transaction Platform
+Studied about decentralised databases, database synchronisation, encryption techniques, proof of work, verification rules used by miners and importance of round robin scheduling for miners. Built the database of the platform using MultiChain library incorporating features to create blockchains, streams and perform transactions. Backend was JavaScript based and frontend was HTML5/CSS based.</description>
+    </item>
+    
+    <item>
+      <title>Railway Enquiry System</title>
+      <link>https://abhi608.github.io/project/railway/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/railway/</guid>
+      <description>Mentor: Dr. Medha Atre, IITK
+Stretch: Jan&amp;rsquo;17 - Apr&amp;rsquo;17
+Complete Project: RailQuery
+Implemented queries like trains between stations involving optimized parameters such as minimum cost, time or distance using Neo4j. Implemented alogithms like Dijkstra&amp;rsquo;s Algorithm and BFS-Traversal.</description>
+    </item>
+    
+  </channel>
+</rss>
