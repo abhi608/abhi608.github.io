@@ -187,6 +187,23 @@
     </item>
     
     <item>
+      <title>Task oriented natural language end-to-end dialog system</title>
+      <link>https://abhi608.github.io/project/task-oriented-chatbot/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/task-oriented-chatbot/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Harish Karnick, IITK&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Jan&amp;rsquo;18 - Apr&amp;rsquo;18&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/abhi608/task_oriented_nlp_system&#34; target=&#34;_blank&#34;&gt;Task Oriented Chatbot&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Teaching machines to converse naturally with humans to achieve specific tasks is very challenging. Currently, developing task oriented dialogue systems require specific hand-crafting. Also obtaining the dataset may be very cumbersome and costly. As a result, it is very difficult to scale them to new dimensions.The first implementation targets the
+first problem of specific hand-crafting. The second implementation improves it further by considerably reducing the data required. It is shown that end-to-end models can achieve good results in case of goal oriented dialogues.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Elanic Intern</title>
       <link>https://abhi608.github.io/project/elanic-intern/</link>
       <pubDate>Sun, 17 Dec 2017 17:51:40 +0530</pubDate>
@@ -270,16 +287,6 @@
 &lt;li&gt;Enabled cross-browser testing by integrating BrowserSync with an existing web application which reduced the developmentand test time by 60%.&lt;/li&gt;
 &lt;li&gt;Implemented methods to ensure that different browsers across different devices are executing requests insynchronization.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>https://abhi608.github.io/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
-      
-      <guid>https://abhi608.github.io/talk/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
