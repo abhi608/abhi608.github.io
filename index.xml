@@ -11,7 +11,7 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Blockchain Technology</title>
+      <title>Blockchain &amp; Consensus Protocols</title>
       <link>https://abhi608.github.io/project/blockchain/</link>
       <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
       
@@ -23,22 +23,6 @@
 &lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/abhi608/blockchain_tech&#34; target=&#34;_blank&#34;&gt;Blockchain Technology&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Explored various aspects of blockchains. Major field of study was consensus protocols based on concepts like Proof of Work, Proof of Stake and Proof of Space. Also covered Algorand and did a case study of Bitcoin and ZCash.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Blockchain based Smart Transaction Platform</title>
-      <link>https://abhi608.github.io/project/transaction/</link>
-      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
-      
-      <guid>https://abhi608.github.io/project/transaction/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Satyadev Nandakumar, IITK &amp;amp; Dr. Piyush P. Kurur, IITK&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Aug&amp;rsquo;17 - Nov&amp;rsquo;17&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/abhi608/shareCapital&#34; target=&#34;_blank&#34;&gt;Blockchain based Smart Transaction Platform&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Studied about decentralised databases, database synchronisation, encryption techniques, proof of work, verification rules used by miners and importance of round robin scheduling for miners. Built the database of the platform using MultiChain library incorporating features to create blockchains, streams and perform transactions. Backend was JavaScript based and frontend was HTML5/CSS based. Implemented a blockchain model which supports exchange of data and assets keeping into account data access, privacy and integrity. Implemented features like wallet transactions, stream creation and creation of new records.&lt;/p&gt;
 </description>
     </item>
     
@@ -123,22 +107,6 @@
     </item>
     
     <item>
-      <title>Extension of NachOS</title>
-      <link>https://abhi608.github.io/project/nachos/</link>
-      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
-      
-      <guid>https://abhi608.github.io/project/nachos/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Mainak Chaudhuri, IITK&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Aug&amp;rsquo;16 - Nov&amp;rsquo;16&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/abhi608/NachOS&#34; target=&#34;_blank&#34;&gt;Extension of NachOS&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Implemented fork, join and exec system calls in NachOS-instructional C++ software to run as secondary OS. Compared algorithms for page replacement, process scheduling, demand paging, shared memory and syn-chronisation support.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Learning Atari Game strategies using Deep Reinforcement Learning</title>
       <link>https://abhi608.github.io/project/atari/</link>
       <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
@@ -155,6 +123,38 @@
     </item>
     
     <item>
+      <title>Multichain for Medical Records</title>
+      <link>https://abhi608.github.io/project/transaction/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/transaction/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Satyadev Nandakumar, IITK &amp;amp; Dr. Piyush P. Kurur, IITK&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Aug&amp;rsquo;17 - Nov&amp;rsquo;17&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/abhi608/shareCapital&#34; target=&#34;_blank&#34;&gt;Blockchain based Smart Transaction Platform&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Studied about decentralised databases, database synchronisation, encryption techniques, proof of work, verification rules used by miners and importance of round robin scheduling for miners. Built the database of the platform using MultiChain library incorporating features to create blockchains, streams and perform transactions. Backend was JavaScript based and frontend was HTML5/CSS based. Implemented a blockchain model which supports exchange of data and assets keeping into account data access, privacy and integrity. Implemented features like wallet transactions, stream creation and creation of new records.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NachOS</title>
+      <link>https://abhi608.github.io/project/nachos/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/nachos/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Mainak Chaudhuri, IITK&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Aug&amp;rsquo;16 - Nov&amp;rsquo;16&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/abhi608/NachOS&#34; target=&#34;_blank&#34;&gt;Extension of NachOS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Implemented fork, join and exec system calls in NachOS-instructional C++ software to run as secondary OS. Compared algorithms for page replacement, process scheduling, demand paging, shared memory and syn-chronisation support.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Railway Enquiry System</title>
       <link>https://abhi608.github.io/project/railway/</link>
       <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
@@ -167,6 +167,22 @@
 &lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/ayush-tulsyan/RailQuery&#34; target=&#34;_blank&#34;&gt;RailQuery&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Implemented queries like trains between stations involving optimized parameters such as minimum cost, time or distance using Neo4j. Implemented alogithms like Dijkstra&amp;rsquo;s Algorithm and BFS-Traversal.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Security of Zoobar Server</title>
+      <link>https://abhi608.github.io/project/zoobar/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/zoobar/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Sandeep Shukla, IITK&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Jan&amp;rsquo;18 - Apr&amp;rsquo;18&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/abhi608/cs628a-project&#34; target=&#34;_blank&#34;&gt;Security of Zoobar Server&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Found, exploited and fixed stack overflow, format string, DoS vulnerebilities and various other network layer attacks in the zoobar server. Crafted and demonstrated XSS, SQL injections and numerous browser based attacks on the server using scripts written in C++ and Python.&lt;/p&gt;
 </description>
     </item>
     
@@ -247,45 +263,6 @@ first problem of specific hand-crafting. The second implementation improves it f
 &lt;li&gt;Was part of a 3 member team which whose responsibility was making, maintaining and deploying anandroid app which featured as Top Free in the Google Play Store. The app was downloaded by more than 10k people within a week.&lt;/li&gt;
 &lt;li&gt;Used AWS(Amazon Web Services)to handle the app and DynamoDB for database handling. All the scripts were run on Cron and AWS Lambda Server was used in the Backend of the app to execute the app tasks.&lt;/li&gt;
 &lt;li&gt;Configured and maintained Rabbitmq Server for keeping mobile devices connected usingmqtt protocol.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>VISA Intern</title>
-      <link>https://abhi608.github.io/project/visa-intern/</link>
-      <pubDate>Sun, 17 Dec 2017 17:51:40 +0530</pubDate>
-      
-      <guid>https://abhi608.github.io/project/visa-intern/</guid>
-      <description>
-
-&lt;h2 id=&#34;my-projects-at-visa-https-www-visa-co-in&#34;&gt;My Projects at &lt;a href=&#34;https://www.visa.co.in/&#34; target=&#34;_blank&#34;&gt;VISA&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h3 id=&#34;self-heling-automation&#34;&gt;Self-Heling Automation&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;May&amp;rsquo;17 - July&amp;rsquo;17&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Manager: Mr. Mohan Babu Nellore, Director-MAP&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Mentor: Mr. Arup Datta&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Implemented an intelligent automation architecture that makes sure all dependent components (VMs, services/applications,  databases) are working as desired before running actual test suite to wipe off all false positives. This ensured that there is no downtimefor any service/API and also reduced development and test time by 90%.&lt;/li&gt;
-&lt;li&gt;Implemented Restful APIs for application health-check, starting/stopping and re-starting the services using JAVA servlet framework.&lt;/li&gt;
-&lt;li&gt;Filed a patent for this work and was awarded a pre-placement offer for sincere and concerted efforts with avisible business impact.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;browsersync-integration-in-existing-architecture&#34;&gt;BrowserSync Integration in Existing Architecture&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;May&amp;rsquo;17 - July&amp;rsquo;17&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Manager: Mr. Mohan Babu Nellore, Director-MAP&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Mentor: Mr. Shubham&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Enabled cross-browser testing by integrating BrowserSync with an existing web application which reduced the developmentand test time by 60%.&lt;/li&gt;
-&lt;li&gt;Implemented methods to ensure that different browsers across different devices are executing requests insynchronization.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

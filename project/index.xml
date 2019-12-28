@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>Blockchain Technology</title>
+      <title>Blockchain &amp; Consensus Protocols</title>
       <link>https://abhi608.github.io/project/blockchain/</link>
       <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
       
@@ -22,18 +22,6 @@
 Stretch: Aug&amp;rsquo;17 - Nov&amp;rsquo;17
 Complete Project: Blockchain Technology
 Explored various aspects of blockchains. Major field of study was consensus protocols based on concepts like Proof of Work, Proof of Stake and Proof of Space. Also covered Algorand and did a case study of Bitcoin and ZCash.</description>
-    </item>
-    
-    <item>
-      <title>Blockchain based Smart Transaction Platform</title>
-      <link>https://abhi608.github.io/project/transaction/</link>
-      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
-      
-      <guid>https://abhi608.github.io/project/transaction/</guid>
-      <description>Mentor: Dr. Satyadev Nandakumar, IITK &amp;amp; Dr. Piyush P. Kurur, IITK
-Stretch: Aug&amp;rsquo;17 - Nov&amp;rsquo;17
-Complete Project: Blockchain based Smart Transaction Platform
-Studied about decentralised databases, database synchronisation, encryption techniques, proof of work, verification rules used by miners and importance of round robin scheduling for miners. Built the database of the platform using MultiChain library incorporating features to create blockchains, streams and perform transactions. Backend was JavaScript based and frontend was HTML5/CSS based.</description>
     </item>
     
     <item>
@@ -97,18 +85,6 @@ Added admin side modules and features to Prutor, a Node.js platform used to teac
     </item>
     
     <item>
-      <title>Extension of NachOS</title>
-      <link>https://abhi608.github.io/project/nachos/</link>
-      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
-      
-      <guid>https://abhi608.github.io/project/nachos/</guid>
-      <description>Mentor: Dr. Mainak Chaudhuri, IITK
-Stretch: Aug&amp;rsquo;16 - Nov&amp;rsquo;16
-Complete Project: Extension of NachOS
-Implemented fork, join and exec system calls in NachOS-instructional C++ software to run as secondary OS. Compared algorithms for page replacement, process scheduling, demand paging, shared memory and syn-chronisation support.</description>
-    </item>
-    
-    <item>
       <title>Learning Atari Game strategies using Deep Reinforcement Learning</title>
       <link>https://abhi608.github.io/project/atari/</link>
       <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
@@ -121,6 +97,30 @@ Created an AI agent which learnt to play a number of Atari Games and defeated At
     </item>
     
     <item>
+      <title>Multichain for Medical Records</title>
+      <link>https://abhi608.github.io/project/transaction/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/transaction/</guid>
+      <description>Mentor: Dr. Satyadev Nandakumar, IITK &amp;amp; Dr. Piyush P. Kurur, IITK
+Stretch: Aug&amp;rsquo;17 - Nov&amp;rsquo;17
+Complete Project: Blockchain based Smart Transaction Platform
+Studied about decentralised databases, database synchronisation, encryption techniques, proof of work, verification rules used by miners and importance of round robin scheduling for miners. Built the database of the platform using MultiChain library incorporating features to create blockchains, streams and perform transactions. Backend was JavaScript based and frontend was HTML5/CSS based.</description>
+    </item>
+    
+    <item>
+      <title>NachOS</title>
+      <link>https://abhi608.github.io/project/nachos/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/nachos/</guid>
+      <description>Mentor: Dr. Mainak Chaudhuri, IITK
+Stretch: Aug&amp;rsquo;16 - Nov&amp;rsquo;16
+Complete Project: Extension of NachOS
+Implemented fork, join and exec system calls in NachOS-instructional C++ software to run as secondary OS. Compared algorithms for page replacement, process scheduling, demand paging, shared memory and syn-chronisation support.</description>
+    </item>
+    
+    <item>
       <title>Railway Enquiry System</title>
       <link>https://abhi608.github.io/project/railway/</link>
       <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
@@ -130,6 +130,18 @@ Created an AI agent which learnt to play a number of Atari Games and defeated At
 Stretch: Jan&amp;rsquo;17 - Apr&amp;rsquo;17
 Complete Project: RailQuery
 Implemented queries like trains between stations involving optimized parameters such as minimum cost, time or distance using Neo4j. Implemented alogithms like Dijkstra&amp;rsquo;s Algorithm and BFS-Traversal.</description>
+    </item>
+    
+    <item>
+      <title>Security of Zoobar Server</title>
+      <link>https://abhi608.github.io/project/zoobar/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/zoobar/</guid>
+      <description>Mentor: Dr. Sandeep Shukla, IITK
+Stretch: Jan&amp;rsquo;18 - Apr&amp;rsquo;18
+Complete Project: Security of Zoobar Server
+Found, exploited and fixed stack overflow, format string, DoS vulnerebilities and various other network layer attacks in the zoobar server. Crafted and demonstrated XSS, SQL injections and numerous browser based attacks on the server using scripts written in C++ and Python.</description>
     </item>
     
     <item>
@@ -176,6 +188,17 @@ Mentor: Pragyan Tripathi, CTO, Elanic
       <description>Full Stack Development May&amp;rsquo;16 - July&amp;rsquo;16
 Mentor: Bhanu Singh, CTO, ShareChat
  Worked on Mixpanel API to get data about the Mobile Application and used D3.js(Data Driven Documents), a data visualisation tool to convert raw data to presentable form. Data included retention and engagement cohorts. Was part of a 3 member team which whose responsibility was making, maintaining and deploying anandroid app which featured as Top Free in the Google Play Store.</description>
+    </item>
+    
+    <item>
+      <title>Software Engineer at VISA</title>
+      <link>https://abhi608.github.io/project/visa-fte/</link>
+      <pubDate>Sun, 17 Dec 2017 17:51:40 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/visa-fte/</guid>
+      <description>My Responsibilities at VISA July&amp;rsquo;18 - Present
+Manager: Mr. Dumesh Nair, Director of Software Engineering at VISA
+ Responsibilities include designing, implementing and maintaining large scale distributed systems used in everyday payment transactions. Worked on detecting the future possibility of deadlock during parallel processing and dynamically changing the resource allocation algorithm. Designed and implemented Least Cost Routing(minimum possible fees paid by VISA) for debit and credit card transactions in a new sale service.</description>
     </item>
     
     <item>

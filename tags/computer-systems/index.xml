@@ -37,7 +37,7 @@ Created a chat application using socket programming in python. Implemented a con
     </item>
     
     <item>
-      <title>Extension of NachOS</title>
+      <title>NachOS</title>
       <link>https://abhi608.github.io/project/nachos/</link>
       <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
       
@@ -46,6 +46,18 @@ Created a chat application using socket programming in python. Implemented a con
 Stretch: Aug&amp;rsquo;16 - Nov&amp;rsquo;16
 Complete Project: Extension of NachOS
 Implemented fork, join and exec system calls in NachOS-instructional C++ software to run as secondary OS. Compared algorithms for page replacement, process scheduling, demand paging, shared memory and syn-chronisation support.</description>
+    </item>
+    
+    <item>
+      <title>Security of Zoobar Server</title>
+      <link>https://abhi608.github.io/project/zoobar/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/zoobar/</guid>
+      <description>Mentor: Dr. Sandeep Shukla, IITK
+Stretch: Jan&amp;rsquo;18 - Apr&amp;rsquo;18
+Complete Project: Security of Zoobar Server
+Found, exploited and fixed stack overflow, format string, DoS vulnerebilities and various other network layer attacks in the zoobar server. Crafted and demonstrated XSS, SQL injections and numerous browser based attacks on the server using scripts written in C++ and Python.</description>
     </item>
     
   </channel>
